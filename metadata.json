@@ -1,0 +1,7 @@
+{
+  "name": "Serenity: Alívio da Ansiedade",
+  "description": "Um companheiro digital projetado para ajudar a gerenciar crises de ansiedade através de técnicas de respiração, exercícios de aterramento e suporte de IA empático.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
